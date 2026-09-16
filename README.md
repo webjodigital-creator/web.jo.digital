@@ -1,22 +1,8 @@
-<img width="1317" height="659" alt="site" src="https://github.com/user-attachments/assets/3f738a02-3d32-401e-aab8-7625f363a712" />Transformer cette photo en portrait professionnel pour le portfolio de Web.Jo Digital.
+<div align="center">
 
-Conserver exactement mon visage et mon identité réelle.
+<img src="./images/ma-photo.png" width="220" alt="Web.Jo Digital">
 
-Cadrage carré 1:1, tête et épaules, composition centrée, posture professionnelle et naturelle.
-
-Arrière-plan moderne et minimaliste inspiré du monde numérique : technologie, développement web, digitalisation et innovation, avec un rendu sobre et professionnel.
-
-Éclairage studio professionnel, image nette, haute résolution, rendu réaliste, élégant et corporate.
-
-L'image doit donner l'impression d'un fondateur ou professionnel d'une entreprise digitale sérieuse et moderne.
-
-Ne pas modifier mes traits du visage.
-Ne pas changer mon apparence.
-Ne pas ajouter de texte.
-Ne pas ajouter de logo.
-Ne pas créer un visage artificiel.
-
-Résultat : portrait professionnel, réaliste, moderne et adapté à GitHub.
+</div><img width="1317" height="659" alt="site" src="https://github.com/user-attachments/assets/3f738a02-3d32-401e-aab8-7625f363a712" />.
 
   SEJA BEM VINDO  
                      ** Web.Jo. Digital **             <h1 align="center">
@@ -107,7 +93,7 @@ Criação e configuração de:
 - Publicações
 - Conteúdos promocionais
 
- [Facebook](https://www.facebook.com/)
+ [Facebook](https://www.facebook.com/reel/1017766844617191/?app=fbl)
 
  📸 Instagram
 
@@ -137,7 +123,7 @@ Ajudamos as empresas a desenvolver a sua visibilidade através de conteúdos em 
 - Estratégia de visibilidade
 - Ligação com outras plataformas
 
- [TikTok](https://www.tiktok.com/)
+ [TikTok](http://tiktok.com/@jorge.lifela)
 
  ▶️ YouTube
 
@@ -152,7 +138,7 @@ Criação e configuração de uma presença profissional no YouTube:
 - Organização dos conteúdos
 - Apresentação dos serviços
 
- [YouTube](https://www.youtube.com/)
+ [YouTube](http://web.jo.digital/)
 
  4️⃣ Ligação das Plataformas
 
@@ -494,7 +480,7 @@ Conheça os nossos projetos:
 🔗 Links Oficiais
 
 💬 WhatsApp
-👉 Contactar +244 950495987
+👉 Contactar http://web.jo.digital/
 
 ⚠️ Substitua os links acima pelos seus links oficiais antes de publicar o README.
 
