@@ -1,4 +1,5 @@
- ** Web.Jo. Digital **
+  SEJA BEM VINDO  
+                     ** Web.Jo. Digital **
 
  Digitalizar comércios e empresas para torná-los mais visíveis, profissionais e acessíveis online.
 
@@ -443,7 +444,7 @@ Queremos contribuir para a transformação digital das empresas em África e, pa
 A nossa visão é permitir que cada comércio e cada empresa tenha uma presença digital profissional, acessível e adaptada à sua atividade.
 
 A sua empresa existe no mundo real.
-A Web.Jo Digital ajuda a fazer com que ela também exista no mundo digital. 🌐
+A Web.Jo Digital ajuda a fazer com que ela também exista no mundo digital.
 
 🚀 Porquê a Web.Jo Digital?
 💻 Presença profissional
@@ -490,9 +491,6 @@ Conheça os nossos projetos:
 🌐 Website Web.Jo Digital
 👉 Visitar o nosso website
 
-💻 GitHub
-👉 Ver os nossos projetos no GitHub
-
 📘 Facebook
 👉 Web.Jo Digital no Facebook
 
@@ -506,7 +504,7 @@ Conheça os nossos projetos:
 👉 Web.Jo Digital no YouTube
 
 💬 WhatsApp
-👉 Contactar a Web.Jo Digital
+👉 Contactar +244 950495987
 
 ⚠️ Substitua os links acima pelos seus links oficiais antes de publicar o README.
 
@@ -516,20 +514,20 @@ Quer digitalizar o seu comércio ou a sua empresa?
 
 A Web.Jo Digital está pronta para ajudar a sua empresa a entrar no mundo digital.
 
-📧 E-mail: seu-email@email.com
+📧 E-mail: web.jo.digital@gmail.com
 
-📱 WhatsApp: +244 XXX XXX XXX
+📱 WhatsApp: +244 950495987
 
 📍 Localização: Luanda, Angola
 
 🌐 Web.Jo Digital
 Digitalizar • Conectar • Desenvolver
 
-© 2026 Web.Jo Digital — Todos os direitos reservados.
+© 2026 Web.Jo.Digital — Todos os direitos reservados.
 
 ⭐ Se aprecia o nosso trabalho, siga o nosso projeto e partilhe o nosso portfólio.
 
 Slogan:
 
-🚀 Digitalizar • Conectar • Desenvolver# web.jo.digital
+ Digitalizar • Conectar • Desenvolver# web.jo.digital
 Portfólio Web.Jo Digital
