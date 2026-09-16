@@ -17,8 +17,6 @@ O nosso objetivo é simples:
 
 Acompanhamos os nossos clientes na criação da sua presença digital, desde a criação do website até à configuração e gestão profissional das suas páginas nas redes sociais.
 
----
-
  A Nossa Missão
 
 A missão da **Web.Jo Digital** é ajudar comércios e empresas a:
@@ -31,8 +29,6 @@ A missão da **Web.Jo Digital** é ajudar comércios e empresas a:
 - 📈 Melhorar a sua visibilidade digital
 - 🏢 Construir uma imagem profissional
 - ⚙️ Implementar soluções digitais adaptadas à sua atividade
-
----
 
 Os Nossos Serviços
 
@@ -55,8 +51,6 @@ Criamos websites profissionais adaptados às necessidades de cada negócio.
 - 📱 Websites adaptados para telemóveis
 - 🔎 Otimização da presença online
 
----
-
  ⚙️ 2️⃣ Configuração Profissional
 
 Criar um website não é suficiente.
@@ -78,8 +72,6 @@ Na **Web.Jo Digital**, configuramos profissionalmente a presença digital da emp
 - Otimização para dispositivos móveis
 - Estrutura profissional do website
 
----
-
  3️⃣ Criação e Gestão de Páginas
 
 Criamos e configuramos páginas profissionais para empresas nas principais plataformas sociais.
@@ -99,8 +91,6 @@ Criação e configuração de:
 
  [Facebook](https://www.facebook.com/)
 
----
-
  📸 Instagram
 
 Criamos e configuramos uma presença profissional no Instagram:
@@ -117,8 +107,6 @@ Criamos e configuramos uma presença profissional no Instagram:
 
  [Instagram](https://www.instagram.com/)
 
----
-
  🎵 TikTok
 
 Ajudamos as empresas a desenvolver a sua visibilidade através de conteúdos em vídeo.
@@ -132,8 +120,6 @@ Ajudamos as empresas a desenvolver a sua visibilidade através de conteúdos em 
 - Ligação com outras plataformas
 
  [TikTok](https://www.tiktok.com/)
-
----
 
  ▶️ YouTube
 
@@ -149,8 +135,6 @@ Criação e configuração de uma presença profissional no YouTube:
 - Apresentação dos serviços
 
  [YouTube](https://www.youtube.com/)
-
----
 
  4️⃣ Ligação das Plataformas
 
@@ -492,21 +476,6 @@ Conheça os nossos projetos:
 10	✈️ Agência de Viagens	Ver o projeto
 🔗 Links Oficiais
 
-🌐 Website Web.Jo Digital
-👉 Visitar o nosso website
-
-📘 Facebook
-👉 Web.Jo Digital no Facebook
-
-📸 Instagram
-👉 Web.Jo Digital no Instagram
-
-🎵 TikTok
-👉 Web.Jo Digital no TikTok
-
-▶️ YouTube
-👉 Web.Jo Digital no YouTube
-
 💬 WhatsApp
 👉 Contactar +244 950495987
 
@@ -531,7 +500,4 @@ Digitalizar • Conectar • Desenvolver
 
 ⭐ Se aprecia o nosso trabalho, siga o nosso projeto e partilhe o nosso portfólio.
 
-Slogan:
-
- Digitalizar • Conectar • Desenvolver# web.jo.digital
-Portfólio Web.Jo Digital
+© 2026 Web.Jo Digital — Todos os direitos reservados.
