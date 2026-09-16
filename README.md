@@ -1,7 +1,9 @@
 <img width="1317" height="659" alt="site" src="https://github.com/user-attachments/assets/3f738a02-3d32-401e-aab8-7625f363a712" />
 
   SEJA BEM VINDO  
-                     ** Web.Jo. Digital **
+                     ** Web.Jo. Digital **             <h1 align="center">
+  <span style="color: red;">PORTFÓLIO</span>
+</h1>
 
  Digitalizar comércios e empresas para torná-los mais visíveis, profissionais e acessíveis online.
 
