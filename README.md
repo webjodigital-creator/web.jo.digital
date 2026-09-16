@@ -1,4 +1,4 @@
-<img width="131" height="654" alt="site" src="https://github.com/user-attachments/assets/3f738a02-3d32-401e-aab8-7625f363a712" />.
+<img width="135" height="659" alt="site" src="https://github.com/user-attachments/assets/3f738a02-3d32-401e-aab8-7625f363a712" />.
 
   SEJA BEM VINDO  
                      ** Web.Jo. Digital **             <h1 align="center">
