@@ -2,7 +2,7 @@
 <img width="1024" height="1536" alt="file_00000000cf54820e818f967699177265" src="https://github.com/user-attachments/assets/a654aa94-4e4b-479a-b472-eb50de855c58" />
   SEJA BEM VINDO  
                      ** Web.Jo. Digital **             
-  <span style="color: red;">PORTFÓLIO<
+  <span style="color: red;                                        PORTFÓLIO
 
  Digitalizar comércios e empresas para torná-los mais visíveis, profissionais e acessíveis online.
 
