@@ -1,6 +1,6 @@
-🌐 Web.Jo Digital
+ ** Web.Jo. Digital **
 
-### 🚀 Digitalizar comércios e empresas para torná-los mais visíveis, profissionais e acessíveis online.
+ Digitalizar comércios e empresas para torná-los mais visíveis, profissionais e acessíveis online.
 
 Bem-vindo ao repositório oficial da **Web.Jo Digital**.
 
@@ -8,13 +8,13 @@ A **Web.Jo Digital** é uma empresa especializada na **digitalização de comér
 
 O nosso objetivo é simples:
 
-> 💡 Transformar atividades tradicionais em negócios modernos e visíveis na Internet.
+ Transformar atividades tradicionais em negócios modernos e visíveis na Internet.
 
 Acompanhamos os nossos clientes na criação da sua presença digital, desde a criação do website até à configuração e gestão profissional das suas páginas nas redes sociais.
 
 ---
 
-# 🎯 A Nossa Missão
+ A Nossa Missão
 
 A missão da **Web.Jo Digital** é ajudar comércios e empresas a:
 
@@ -29,13 +29,13 @@ A missão da **Web.Jo Digital** é ajudar comércios e empresas a:
 
 ---
 
-# 💼 Os Nossos Serviços
+Os Nossos Serviços
 
-## 1️⃣ Criação de Websites
+ 1️⃣ Criação de Websites
 
 Criamos websites profissionais adaptados às necessidades de cada negócio.
 
-### As nossas soluções incluem:
+ As nossas soluções incluem:
 
 - 🌐 Website institucional
 - 🏢 Website para empresas
@@ -52,17 +52,16 @@ Criamos websites profissionais adaptados às necessidades de cada negócio.
 
 ---
 
-# ⚙️ 2️⃣ Configuração Profissional
+ ⚙️ 2️⃣ Configuração Profissional
 
 Criar um website não é suficiente.
 
 Na **Web.Jo Digital**, configuramos profissionalmente a presença digital da empresa.
 
-### Configuração:
+ Configuração:
 
 - Domínio
 - Alojamento
-- SSL / HTTPS
 - E-mail profissional
 - Informações de contacto
 - WhatsApp
@@ -76,11 +75,11 @@ Na **Web.Jo Digital**, configuramos profissionalmente a presença digital da emp
 
 ---
 
-# 📱 3️⃣ Criação e Gestão de Páginas
+ 3️⃣ Criação e Gestão de Páginas
 
 Criamos e configuramos páginas profissionais para empresas nas principais plataformas sociais.
 
-### 🔵 Facebook
+🔵 Facebook
 
 Criação e configuração de:
 
@@ -93,11 +92,11 @@ Criação e configuração de:
 - Publicações
 - Conteúdos promocionais
 
-👉 [Facebook](https://www.facebook.com/)
+ [Facebook](https://www.facebook.com/)
 
 ---
 
-### 📸 Instagram
+ 📸 Instagram
 
 Criamos e configuramos uma presença profissional no Instagram:
 
@@ -111,11 +110,11 @@ Criamos e configuramos uma presença profissional no Instagram:
 - Reels
 - Apresentação de produtos e serviços
 
-👉 [Instagram](https://www.instagram.com/)
+ [Instagram](https://www.instagram.com/)
 
 ---
 
-### 🎵 TikTok
+ 🎵 TikTok
 
 Ajudamos as empresas a desenvolver a sua visibilidade através de conteúdos em vídeo.
 
@@ -127,11 +126,11 @@ Ajudamos as empresas a desenvolver a sua visibilidade através de conteúdos em 
 - Estratégia de visibilidade
 - Ligação com outras plataformas
 
-👉 [TikTok](https://www.tiktok.com/)
+ [TikTok](https://www.tiktok.com/)
 
 ---
 
-### ▶️ YouTube
+ ▶️ YouTube
 
 Criação e configuração de uma presença profissional no YouTube:
 
@@ -144,15 +143,15 @@ Criação e configuração de uma presença profissional no YouTube:
 - Organização dos conteúdos
 - Apresentação dos serviços
 
-👉 [YouTube](https://www.youtube.com/)
+ [YouTube](https://www.youtube.com/)
 
 ---
 
-# 🔗 4️⃣ Ligação das Plataformas
+ 4️⃣ Ligação das Plataformas
 
 Criamos um ecossistema digital conectado.
 
-```text
+
                     🌐 WEBSITE
                        │
           ┌────────────┼────────────┐
@@ -170,7 +169,7 @@ Criamos um ecossistema digital conectado.
 
 O objetivo é permitir que os clientes encontrem facilmente a empresa, os seus produtos e os seus serviços.
 
-📊 5️⃣ Análise de Dados
+ 5️⃣ Análise de Dados
 
 A Web.Jo Digital também pode integrar soluções de análise de dados para ajudar as empresas a compreender melhor a sua atividade digital.
 
@@ -206,7 +205,7 @@ Instagram
 TikTok
 YouTube
 
-👉 Ver o projeto
+ Ver o projeto
 
 🦷 02 — Clínica Dentária
 
@@ -223,7 +222,7 @@ WhatsApp
 Redes sociais
 Gestão de conteúdos
 
-👉 Ver o projeto
+ Ver o projeto
 
 🎓 03 — Escola
 
@@ -243,7 +242,7 @@ Instagram
 TikTok
 YouTube
 
-👉 Ver o projeto
+ Ver o projeto
 
 🏢 04 — Empresa
 
@@ -261,7 +260,7 @@ WhatsApp
 Redes sociais
 Análise digital
 
-👉 Ver o projeto
+ Ver o projeto
 
 💇 05 — Salão de Beleza
 
@@ -283,7 +282,7 @@ YouTube
 
 👉 Ver o projeto
 
-👗 06 — Atelier de Costura
+ 06 — Atelier de Costura
 
 Solução digital para ateliers de costura.
 
@@ -300,7 +299,7 @@ Facebook
 TikTok
 YouTube
 
-👉 Ver o projeto
+ Ver o projeto
 
 🛍️ 07 — Loja
 
@@ -319,7 +318,7 @@ Instagram
 TikTok
 YouTube
 
-👉 Ver o projeto
+ Ver o projeto
 
 📦 08 — Armazém
 
@@ -336,9 +335,9 @@ WhatsApp
 Redes sociais
 Análise de dados
 
-👉 Ver o projeto
+ Ver o projeto
 
-🎯 09 — Academia de Competências
+09 — Academia de Competências
 
 Solução digital para centros de formação e academias.
 
@@ -355,7 +354,7 @@ Instagram
 TikTok
 YouTube
 
-👉 Ver o projeto
+ Ver o projeto
 
 ✈️ 10 — Agência de Viagens
 
@@ -375,7 +374,7 @@ Instagram
 TikTok
 YouTube
 
-👉 Ver o projeto
+ Ver o projeto
 
 🛠️ Tecnologias
 
@@ -529,48 +528,6 @@ Digitalizar • Conectar • Desenvolver
 © 2026 Web.Jo Digital — Todos os direitos reservados.
 
 ⭐ Se aprecia o nosso trabalho, siga o nosso projeto e partilhe o nosso portfólio.
-
-
-## 📁 Estrutura recomendada do GitHub
-
-```text
-web-jo-digital/
-│
-├── README.md
-│
-├── 01-gabinete-advocacia/
-│   └── README.md
-│
-├── 02-clinica-dentaria/
-│   └── README.md
-│
-├── 03-escola/
-│   └── README.md
-│
-├── 04-empresa/
-│   └── README.md
-│
-├── 05-salao-beleza/
-│   └── README.md
-│
-├── 06-atelier-costura/
-│   └── README.md
-│
-├── 07-loja/
-│   └── README.md
-│
-├── 08-armazem/
-│   └── README.md
-│
-├── 09-academia-competencias/
-│   └── README.md
-│
-└── 10-agencia-viagens/
-    └── README.md
-
-Título profissional que recomendo para o projeto:
-
-🌐 Web.Jo Digital — Portfólio de Soluções Digitais
 
 Slogan:
 
