@@ -1,9 +1,5 @@
-
-                                   <img width="1536" height="1024" alt="file_00000000534481f89970186843718e7b" src="https://github.com/user-attachments/assets/b8e7be38-e538-48c1-a968-fbe7236219ce" />
-
-
-
-
+![Uploading file_00000000534481f89970186843718e7b.png…]()
+<img width="1024" height="1536" alt="file_00000000cf54820e818f967699177265" src="https://github.com/user-attachments/assets/a654aa94-4e4b-479a-b472-eb50de855c58" />
   SEJA BEM VINDO  
                      ** Web.Jo. Digital **             <h1 align="center">
   <span style="color: red;">PORTFÓLIO</span>
